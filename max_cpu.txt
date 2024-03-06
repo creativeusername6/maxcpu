@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main()
+{
+	int a = 2;
+	while (true)
+	{
+		a = a * a;
+	}
+}
+//többször le kell futtatni
