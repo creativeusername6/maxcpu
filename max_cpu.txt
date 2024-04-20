@@ -8,4 +8,3 @@ int main()
 		a = a * a;
 	}
 }
-//többször le kell futtatni
